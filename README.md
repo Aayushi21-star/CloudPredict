@@ -95,3 +95,14 @@ Project Domain: Cloud Computing
 ## Disclaimer
 
 This is an academic mini-project prototype. It currently uses CSV-based historical data and does not directly connect to cloud storage platforms.
+
+
+## Live Demo
+
+Try the deployed CloudPredict application:
+
+https://cloudpredict-upyxdctrl9qndqlfomvu8b.streamlit.app/
+
+## GitHub Repository
+
+https://github.com/Aayushi21-star/CloudPredict
